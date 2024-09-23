@@ -4,7 +4,7 @@ This repository contains a project that leverages the Groq API to build a langua
 
 ## Screenshots of my Streamlit application 🏨 
 
-![Streamlit Application Screenshot](images\llm_web_app.PNG)
+![Streamlit Application Screenshot](https://github.com/iamvatsalpanchal/llm-restaurant-name-generator/blob/main/images/llm_web_app.PNG)
 ![Streamlit Application Screenshot](images\llm_web_app1.PNG)
 
 
